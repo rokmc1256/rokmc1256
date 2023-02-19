@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 - 🌱 I’m currently learning HTML5, CSS3, JS !!
-- 📫 How to reach me: React to my instagram account !! --> (yoonhan.h)
+- 📫 How to reach me: Reach to my instagram account !! --> (yoonhan.h)
 
 
