@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 <div align=center>
    <h2>🌱 I’m currently learning and interested in 🔽🔽
-      <br><br><br>
+      <br><br>
       <div align=center>
          <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
          <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
          <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-         <br>
          <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
          <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
          <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
