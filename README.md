@@ -1,4 +1,5 @@
-### Hi there 🙋‍♂ Welcome to my <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> ❗💖❗
+<div align=center><h1>>Hi there 🙋‍🙋‍♂</h1></div> 
+Welcome to my <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> ❗💖❗
 
 <!--
 **rokmc1256/rokmc1256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning and interested in -->
+- 🌱 I’m currently learning and interested in 🔽🔽
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
