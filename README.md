@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <div align=center>
-   <h2>🌱 I’m currently learning and interested in 🔽🔽
+   <h2>👨🏻‍💻 I’m currently learning and interested in 🔽🔽
       <br><br>
       <div align=center>
          <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
  <div align=center>
     <h2>
-     📫 How to reach me: --> 
+     📫 How to reach me: ➔➔ 
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> (yoonhan.h) 
    </h2> 
  </div>
