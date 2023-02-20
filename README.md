@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 </div>
   
  <div align=center>
-<h2>📫 How to reach me: --></h2> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> (yoonhan.h)
+    <h2>
+     📫 How to reach me: --> 
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> (yoonhan.h) 
+   </h2> 
  </div>
 
 
