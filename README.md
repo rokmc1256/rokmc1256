@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  <div align=center>
     <h2>
      📫 How to reach me: ➔➔ 
-     <a href="https://www.instagram.com/yoonhan.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>   (Click here) 
+     <a href="https://www.instagram.com/yoonhan.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
    </h2> 
  </div>
 
